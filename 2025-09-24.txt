@@ -1,0 +1,29 @@
+Topics, concepts, and terms that our class has covered in the past few weeks:
+
+The structure of HTML - <!DOCTYPE html> tells the file that itself is an HTML document, <html> is essentially the base of the document. 
+
+The <head> of the document is used for references to exterior documents 
+(such as <link rel='stylesheet' type='text/css' media='screen' href='styles.css'> which links the stylesheet used to style parts of the website, 
+<script src='script.js' which connects the JavaScript file in order to code elements of the website,
+and <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"> which links tailwind into the file, essentially replacing the CSS document. 
+The title of the website, the charset and the viewport are also parts of the <head> tag. 
+
+The <body> tag is where the main parts of the website are.
+
+<h1>,<h2>,<h3>, are enlarged text to be used as headers, h1 being the biggest, h3 and lower being the smallest.
+
+<p> - tags used to describe paragraphs for text.
+
+<hr> - "thematic breaks", or horizontal lines  
+
+<u> - underlines, <strong> is bold text
+
+<ol> - ordered lists by number <ul> - unordered lists by bullet points <li> - lines in a list
+
+<br> - line breaks in text/elements
+
+Indents are crucial if you want an organized and readable code, so are line spaces if necessary.
+
+
+
+ 
